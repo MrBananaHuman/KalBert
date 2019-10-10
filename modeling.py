@@ -841,6 +841,7 @@ def transformer_model(input_tensor,
 
   all_layer_outputs = []
   for layer_idx in range(num_hidden_layers):
+    #sharing parameters
     with tf.variable_scope("shared_layer"):
       layer_input = prev_output
 
