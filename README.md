@@ -8,7 +8,7 @@ https://drive.google.com/drive/folders/1a_yZIidugit3TxF__f8LSRPc8gfO2CV-?usp=sha
 
 * Training data: ~6GB
   - Korean Wiki
-  - Kaist Book corpus
+  - KAIST Book corpus
   - Saejong corpus
   
 * Morph tokenizing without tag + BPE
